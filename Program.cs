@@ -4,6 +4,7 @@ namespace Newtree
 {
     public class Program
     {
+        //test
         List<string> ownedItems = new List<string>();
 
         bool isArmorBought = false;
