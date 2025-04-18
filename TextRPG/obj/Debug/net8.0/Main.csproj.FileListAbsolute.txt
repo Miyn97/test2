@@ -1,4 +1,0 @@
-C:\Workspace\RtanRPG\TextRPG\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
-C:\Workspace\RtanRPG\TextRPG\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
-C:\Workspace\RtanRPG\TextRPG\obj\Debug\net8.0\Main.AssemblyInfo.cs
-C:\Workspace\RtanRPG\TextRPG\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
