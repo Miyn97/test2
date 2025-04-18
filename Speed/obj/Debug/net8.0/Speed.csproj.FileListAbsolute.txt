@@ -1,0 +1,14 @@
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\Speed.AssemblyInfoInputs.cache
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\Speed.AssemblyInfo.cs
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\Speed.csproj.CoreCompileInputs.cache
+C:\Workspace\RtanRPG\Speed\bin\Debug\net8.0\Speed.exe
+C:\Workspace\RtanRPG\Speed\bin\Debug\net8.0\Speed.deps.json
+C:\Workspace\RtanRPG\Speed\bin\Debug\net8.0\Speed.runtimeconfig.json
+C:\Workspace\RtanRPG\Speed\bin\Debug\net8.0\Speed.dll
+C:\Workspace\RtanRPG\Speed\bin\Debug\net8.0\Speed.pdb
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\Speed.dll
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\refint\Speed.dll
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\Speed.pdb
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\Speed.genruntimeconfig.cache
+C:\Workspace\RtanRPG\Speed\obj\Debug\net8.0\ref\Speed.dll

@@ -1,0 +1,14 @@
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\Newtree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\Newtree.AssemblyInfoInputs.cache
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\Newtree.AssemblyInfo.cs
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\Newtree.csproj.CoreCompileInputs.cache
+C:\Workspace\RtanRPG\Newtree\bin\Debug\net8.0\Newtree.exe
+C:\Workspace\RtanRPG\Newtree\bin\Debug\net8.0\Newtree.deps.json
+C:\Workspace\RtanRPG\Newtree\bin\Debug\net8.0\Newtree.runtimeconfig.json
+C:\Workspace\RtanRPG\Newtree\bin\Debug\net8.0\Newtree.dll
+C:\Workspace\RtanRPG\Newtree\bin\Debug\net8.0\Newtree.pdb
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\Newtree.dll
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\refint\Newtree.dll
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\Newtree.pdb
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\Newtree.genruntimeconfig.cache
+C:\Workspace\RtanRPG\Newtree\obj\Debug\net8.0\ref\Newtree.dll

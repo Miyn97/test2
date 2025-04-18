@@ -1,0 +1,14 @@
+C:\Workspace\RtanRPG\RtanRPG\bin\Debug\net8.0\RtanRPG.exe
+C:\Workspace\RtanRPG\RtanRPG\bin\Debug\net8.0\RtanRPG.deps.json
+C:\Workspace\RtanRPG\RtanRPG\bin\Debug\net8.0\RtanRPG.runtimeconfig.json
+C:\Workspace\RtanRPG\RtanRPG\bin\Debug\net8.0\RtanRPG.dll
+C:\Workspace\RtanRPG\RtanRPG\bin\Debug\net8.0\RtanRPG.pdb
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\RtanRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\RtanRPG.AssemblyInfoInputs.cache
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\RtanRPG.AssemblyInfo.cs
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\RtanRPG.csproj.CoreCompileInputs.cache
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\RtanRPG.dll
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\refint\RtanRPG.dll
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\RtanRPG.pdb
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\RtanRPG.genruntimeconfig.cache
+C:\Workspace\RtanRPG\RtanRPG\obj\Debug\net8.0\ref\RtanRPG.dll
